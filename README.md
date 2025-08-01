@@ -2,7 +2,7 @@
 
 A simple Java console application that allows users to create accounts, log in, and perform basic banking operations. It uses JDBC for database connectivity and follows object-oriented programming principles.
 
-Features:
+• Features:
 
 ✔ Create customer accounts with full details
 
@@ -24,7 +24,9 @@ Features:
 
 ✔ All data stored and managed using a MySQL database via JDBC
 
-Technologies Used:
+
+
+• Technologies Used:
 
 Java
 
