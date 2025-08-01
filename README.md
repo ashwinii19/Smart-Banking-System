@@ -26,6 +26,7 @@ A simple Java console application that allows users to create accounts, log in, 
 
 
 
+
 • Technologies Used:
 
 Java
